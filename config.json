@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6281952806095@s.whatsapp.net","6287753628461@s.whatsapp.net"],
+    "ownerName": "Yanz`友 X Hamz`友",
+    "instagram" : "https://instagram.com/iyanxvshit",
+    "gcwa" : "https://instabio.cc/Alphabot",
+    "botName": "Yanz Bot`友",
+    "footer": "• Github: https://github.com/AkuIyan
+• Instagram: https://instagram.com/iyanxvshit
+• Website: https://portofolio.akuiyan.repl.co
+• YouTube: wa.me/6281952806095",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "jerapikeytod",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
